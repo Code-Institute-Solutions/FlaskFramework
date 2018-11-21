@@ -1,0 +1,11 @@
+beautifulsoup4==4.6.3
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+lxml==4.2.4
+MarkupSafe==1.1.0
+pipenv==2018.5.18
+virtualenv==16.0.0
+virtualenv-clone==0.3.0
+Werkzeug==0.14.1
